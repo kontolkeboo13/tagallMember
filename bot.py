@@ -31,7 +31,7 @@ async def start(event):
                          Button.url('⭐SUPPORT', 'https://t.me/pglpnti_ki_dunia'), 
                       ], 
                       [
-                        Button.url('➕ ADD ME TO YOUR GROUP', 'https://t.me/MEMBER_TAGERBOT?startgroup=true'),   
+                        Button.url('➕ ADD ME TO YOUR GROUP', 'http://t.me/OctaveTagAllBot?startgroup=true'),   
                       ]
                    ), 
                     link_preview=False
