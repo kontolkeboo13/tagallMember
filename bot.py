@@ -27,11 +27,11 @@ async def start(event):
   await event.reply("^_^ Hey, Welcome To TAG Help Bot's Menu\nI can tag 15,000 Members in Group and 300 Members In Channel.\nNeed Help /help ",
                     buttons=(
                       [
-                         Button.url('📣 UPDATES', 'https://t.me/Octave_support'), 
-                         Button.url('⭐SUPPORT', 'https://t.me/pglpnti_ki_dunia'), 
+                         Button.url('👩‍💻PEMILIK', 'https://t.me/Lerrdab'), 
+                         Button.url('⭐SUPPORT', 'https://t.me/xxGRAMZ'), 
                       ], 
                       [
-                        Button.url('➕ ADD ME TO YOUR GROUP', 'http://t.me/OctaveTagAllBot?startgroup=true'),   
+                        Button.url('➕ ADD ME TO YOUR GROUP', 'http://t.me/tagallhelpbot?startgroup=true'),   
                       ]
                    ), 
                     link_preview=False
@@ -44,11 +44,11 @@ async def help(event):
   await event.reply(helptext,
                     buttons=(
                       [
-                         Button.url('📣 UPDATES', 'https://t.me/Octave_support'), 
-                         Button.url('⭐SUPPORT', 'https://t.me/pglpnti_ki_dunia'), 
+                         Button.url('👩‍💻 PEMILIK', 'https://t.me/Lerrdab'), 
+                         Button.url('⭐ JOIN', 'https://t.me/xxGRAMZ'), 
                       ], 
                       [
-                        Button.url('➕ ADD ME TO YOUR GROUP', 'http://t.me/OctaveTagAllBot?startgroup=true'),   
+                        Button.url('➕ ADD ME TO YOUR GROUP', 'http://t.me/tagallhelpbot?startgroup=true'),   
                       ]
                    ), 
                     link_preview=False
@@ -136,5 +136,5 @@ async def cancel_spam(event):
 
 
 print("Started Successfully Join Support")
-print("¯\_(ツ)_/¯ Need Help Join @Octave_support")
+print("¯\_(ツ)_/¯ Need Help Join @xxGRAMZ")
 decodebot.run_until_disconnected()
