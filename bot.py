@@ -45,7 +45,7 @@ async def help(event):
                     buttons=(
                       [
                          Button.url('👩‍💻 PEMILIK', 'https://t.me/Lerrdab'), 
-                         Button.url('⭐ JOIN', 'https://t.me/xxGRAMZ'), 
+                         Button.url('⭐ SUPPORT', 'https://t.me/xxGRAMZ'), 
                       ], 
                       [
                         Button.url('➕ ADD ME TO YOUR GROUP', 'http://t.me/tagallhelpbot?startgroup=true'),   
